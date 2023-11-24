@@ -19,7 +19,7 @@ HOSTNAME = platform.node()
 USER = getpass.getuser()
 
 UNFOCUSED_COLOR = "#6e6e6e"
-FOCUSED_COLOR = "#44ff50"
+FOCUSED_COLOR = "#ffffff"
 
 ICONS = [
     ('class=*.slack.com', '\uf3ef'),
